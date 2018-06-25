@@ -1,0 +1,2 @@
+# Weather Application
+This project is ia simple weather station for the CC3200. It uses the onboard SimpleLink WiFi interface in oprder to connect to an access point and get the weather from an online weather service through an API. There are 5 random cities that you can cycle through using an added analog stick to see their weather, however you can also add your own city through a DTMF input. This uses phone tones comined with T9 texting in order to type out text.
